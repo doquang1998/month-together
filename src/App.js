@@ -222,17 +222,15 @@ function App() {
         Chúc mừng kỷ niệm 1 tháng yêu nhau, bé iu của anhhh!
       </Title>
 
-      <PuppyContainer
+      {/* <PuppyContainer
         initial={{ opacity: 0, scale: 0.8 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 1, delay: 0.5 }}
       >
-        {/* <PuppyFrame /> */}
         <model-viewer
           ref={modelViewerRef}
           src="/toon_cute_dog.glb"
           alt="A cute cartoon dog"
-          // auto-rotate
           camera-controls
           camera-orbit="0deg 10deg 2m"
           min-camera-orbit="auto auto auto"
@@ -244,7 +242,7 @@ function App() {
           ar-modes="webxr scene-viewer quick-look"
           style={{ width: "100%", height: "90%" }}
         ></model-viewer>
-      </PuppyContainer>
+      </PuppyContainer> */}
 
       <MessageCard marginBottom={true} />
     </AppContainer>
