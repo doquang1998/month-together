@@ -11,7 +11,6 @@ const CardContainer = styled(motion.div)`
   display: flex;
   padding: 35px;
   flex-direction: column;
-  gap: 24px;
   max-width: 550px;
   width: 90%;
   box-shadow: 0 10px 30px rgba(255, 105, 180, 0.3),
@@ -21,10 +20,6 @@ const CardContainer = styled(motion.div)`
   z-index: 10;
   position: relative;
   overflow: hidden;
-  height: 60%;
-  @media (max-width: 768px) {
-   height: 100%;
-  }
 
   &:before {
     content: "";
@@ -100,9 +95,6 @@ const ButtonContainer = styled.div`
   display: flex;
   justify-content: center;
   position: relative;
-  @media (max-width: 768px) {
-    margin-bottom: 24px;
-  }
 
   &:before {
     content: "";
