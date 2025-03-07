@@ -203,6 +203,8 @@ const messages = [
   "Nụ cười của em là nguồn động lực mỗi ngày của anh, và tình yêu của em khiến anh cảm thấy trọn vẹn và an yên.",
   "Hôm nay là một ngày thật ý nghĩa – tròn một tháng kể từ khi chúng ta chính thức bên nhau, và anh muốn em biết rằng em quan trọng với anh đến nhường nào.",
   "Cảm ơn em vì những khoảnh khắc ngọt ngào, những niềm vui và cả những yêu thương chân thành.",
+  "Cảm ơn em vì đã đến cuộc đời của anh, cảm ơn vì đã thương và yêu anh vô điều kiện.",
+  "Cảm ơn em người mà anh thương rất nhiều.",
   "Anh trân trọng từng giây phút bên em trong năm tháng qua, và anh mong rằng chúng ta sẽ cùng nhau viết tiếp thật nhiều kỷ niệm đẹp.",
   "Chúc mừng kỷ niệm 1 tháng yêu nhau của chúng ta! Anh mong rằng đây chỉ là khởi đầu cho một hành trình dài thật hạnh phúc bên nhau..",
 ];
